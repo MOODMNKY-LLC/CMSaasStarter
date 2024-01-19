@@ -12,14 +12,14 @@ export default {
     themes: [
       {
         saasstartertheme: {
-          "primary": "#000000", // Black
-          "primary-content": "#ffffff", // White
-          "neutral-content": "#f2f2f2", // Light Gray
-          "secondary": "#4d4d4d", // Medium Gray
-          "accent": "#a6a6a6", // Dark Gray
+          "primary": "#4d4d4d", // Medium Gray
+          "primary-content": "#000000", // Black
+          "neutral-content": "#a6a6a6", // Dark Gray
+          "secondary": "#f2f2f2", // Light Gray
+          "accent": "#ffffff", // White
           "neutral": "#000000", // Black
-          "base-content": "#000000", // Black
-          "base-100": "#ffffff", // White
+          "base-content": "#ffffff", // White
+          "base-100": "#000000", // Black
         },
       },
       "black",
