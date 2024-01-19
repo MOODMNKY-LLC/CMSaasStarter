@@ -4,14 +4,13 @@
 
 <div class="navbar bg-base-100 container mx-auto">
   <div class="flex-1">
-    <a class="btn btn-ghost normal-case text-xl" href="/">SaaS Starter</a>
+    <a class="btn btn-ghost normal-case text-xl" href="/">MOOD MNKY</a>
   </div>
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
-        <a
-          href="https://github.com/CriticalMoments/CMSaasStarter"
-          class="border border-primary">★ us on Github</a
+        <a href="https://github.com/MOODMNKY-LLC" class="border border-primary"
+          >★ us on Github</a
         >
       </li>
       <li class="md:mx-2"><a href="/blog">Blog</a></li>
@@ -43,7 +42,7 @@
         <li><a href="/account">Account</a></li>
         <li>
           <a
-            href="https://github.com/CriticalMoments/CMSaasStarter"
+            href="https://github.com/MOODMNKY-LLC"
             class="border border-primary">★ us on Github</a
           >
         </li>
@@ -68,23 +67,19 @@
       <a class="link link-hover mb-1" href="/">Overview</a>
       <a class="link link-hover my-1" href="/pricing">Pricing</a>
       <a class="link link-hover my-1" href="/blog">Blog</a>
-      <a
-        class="link link-hover my-1"
-        href="https://github.com/CriticalMoments/CMSaasStarter">Github</a
+      <a class="link link-hover my-1" href="https://github.com/MOODMNKY-LLC"
+        >Github</a
       >
     </nav>
     <aside>
       <span class="footer-title opacity-80">Sponsor</span>
-      <a
-        class="link link-hover max-w-[260px]"
-        href="https://criticalmoments.io"
-      >
+      <a class="link link-hover max-w-[260px]" href="https://dojo.moodmnky.com">
         <img
           alt="Critical Moments Logo"
           src="/images/cm_logo.svg"
           class="w-[180px] mb-3 aspect-[420/154]"
         />
-        Make mobile apps? Improve conversion rates and ratings with Critical Moments.
+        Taking self-care serious? Scents the mood with MOOD MNKY.
       </a>
     </aside>
   </footer>
