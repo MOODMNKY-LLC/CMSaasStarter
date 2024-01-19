@@ -16,9 +16,9 @@ export default {
           "primary-content": "#000000", // Black
           "neutral-content": "#a6a6a6", // Dark Gray
           "secondary": "#f2f2f2", // Light Gray
-          "accent": "#ffffff", // White
+          "accent": "#f2f2f2", // Light Gray
           "neutral": "#000000", // Black
-          "base-content": "#a6a6a6", // White
+          "base-content": "#a6a6a6", // Dark Gray
           "base-100": "#000000", // Black
         },
       },
