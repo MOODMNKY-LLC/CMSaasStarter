@@ -21,7 +21,14 @@ export default {
           "base-content": "#180042",
           "base-100": "#fefbf6",
         },
-      }
+      },
+      "black",
+      "lofi",
+      "luxury",
+      "business",
+      "wireframe",
+      "nord",
+      "coffee",
     ],
   }
 }
