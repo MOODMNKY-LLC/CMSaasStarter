@@ -75,7 +75,7 @@
       <span class="footer-title opacity-80">Sponsor</span>
       <a class="link link-hover max-w-[260px]" href="https://dojo.moodmnky.com">
         <img
-          alt="Critical Moments Logo"
+          alt="MOOD MNKY LOGO"
           src="/images/cm_logo.svg"
           class="w-[180px] mb-3 aspect-[420/154]"
         />
